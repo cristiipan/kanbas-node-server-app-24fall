@@ -1,0 +1,14 @@
+# Node modules directory
+node_modules
+
+# Local environment files
+.env
+.env.local
+
+# Logs
+npm-debug.log
+yarn-error.log
+
+# IDE specific files (IntelliJ IDEA, VS Code, etc.)
+.idea
+.vscode
